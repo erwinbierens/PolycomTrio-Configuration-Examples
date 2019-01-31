@@ -1,2 +1,2 @@
-# PolycomTrio_Configuration_Examples
+# PolycomTrio Configuration Examples
 Polycom Trio Configuration Examples
